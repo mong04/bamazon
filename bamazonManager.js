@@ -162,6 +162,7 @@ const mainMenu = () => {
                 let quantity = product.quantity
                 addProduct(name, department, price, quantity);
             })
+            break;
         }
     })
 }
