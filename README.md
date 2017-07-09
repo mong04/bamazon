@@ -14,12 +14,12 @@ Viewing the inventory:
 
 Viewing products that have less than 5 units in stock:
 
-![alt text](https://github.com/mong04/bamazon/blob/master/images/manager-inventory.gif "Manager Low-Inventory View")
+![alt text](https://github.com/mong04/bamazon/blob/master/images/low-inventory.gif "Manager Low-Inventory View")
 
 Adding more units to the product inventory:
 
-![alt text](https://github.com/mong04/bamazon/blob/master/images/manager-inventory.gif "Manager Add-Inventory")
+![alt text](https://github.com/mong04/bamazon/blob/master/images/add-inventory.gif "Manager Add-Inventory")
 
 Adding a new product to the inventory:
 
-![alt text](https://github.com/mong04/bamazon/blob/master/images/manager-inventory.gif "Manager New Product")
+![alt text](https://github.com/mong04/bamazon/blob/master/images/add-product.gif "Manager New Product")
