@@ -1,4 +1,4 @@
-# Bamazon
+# Bamazon Customer View
 
 Bamazon is an Amazon-like storefront integrated with MySQL. The app takes in orders from customers and depletes stock from the store's inventory. The app also tracks product sales across the store's departments and then provides a summary of the highest-grossing departments in the store.
 
