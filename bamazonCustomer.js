@@ -59,7 +59,6 @@ var connection = mysql.createConnection({
             connection.query(query, [response.productID], function(err, res){
                 if (res[0].stock_quantity < response.itemQuantity){
                     console.log('Insufficient quantity!');
-                    // displayItems();
                     setTimeout(displayItems, 1500);
                 }
                 else{
